@@ -8,6 +8,9 @@ The PPO reward used for reinforcement learning now blends the classification hea
 (`reward_amp_cls`) and the physicochemical property heuristic (`prop_reward`) **1:1** via
 `CompositeReward`, ensuring both biological plausibility and desired chemical profiles.
 
+## Data and Checkpoints
+All datasets and pretrained checkpoints can be downloaded here: [**ApexAmphion (Google Drive)**](https://drive.google.com/drive/folders/1RzPwLHfD0MaRn28bskdxddzh3RN_6wlh?usp=sharing)
+
 ## Repository Layout
 
 - `amphion_sft/` – LoRA-based supervised fine-tuning utilities for ProGen.
