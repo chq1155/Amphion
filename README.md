@@ -1,4 +1,4 @@
-# Amphion RL Toolkit
+# Amphion
 
 Amphion is an end-to-end pipeline for **antimicrobial peptide (AMP)** sequence generation.  
 The repository bundles supervised fine-tuning (SFT), reward-model training, PPO-based
@@ -10,7 +10,7 @@ The PPO reward used for reinforcement learning now blends the classification hea
 
 ## Data and Checkpoints
 We applied ProGen2-XL as our base model. It can be downloaded at [**ProGen2 (GitHub)**](https://github.com/enijkamp/progen2)
-All datasets and pretrained checkpoints can be downloaded here: [**ApexAmphion (Google Drive)**](https://drive.google.com/drive/folders/1RzPwLHfD0MaRn28bskdxddzh3RN_6wlh?usp=sharing)
+All datasets and pretrained checkpoints can be downloaded here: [**Amphion (Google Drive)**](https://drive.google.com/drive/folders/1RzPwLHfD0MaRn28bskdxddzh3RN_6wlh?usp=sharing)
 
 After downloading all relevant data and checkpoints, please put in them into the folders listed in [Data & Checkpoint Layout](#data--checkpoint-layout).
 
